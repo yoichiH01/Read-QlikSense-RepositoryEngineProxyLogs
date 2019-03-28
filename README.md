@@ -6,7 +6,7 @@ The application to read Qlik Sense Repository / Engine / Proxy Logs
 - This application works both on Qlik Sense Desktop and Qlik Sense Server
 
 # Instruction
-1. Follow each bullet point listed in Requirement section and generete merged logs by using "MergeLogFiles" tool
+1. Follow each bullet point listed in Requirement section and generate merged logs by using "MergeLogFiles" tool
 2. Donwload ReadRepositoryEngineProxyLogs.qvf onto your Qlik Sense Desktop machine or Qlik Sense Server
 3. Move the ReadRepositoryEngineProxyLogs.qvf into document folder(Qlik Sense Desktop) or import the app in the QMC (Qlik Sense Server)
 4. Open the app from Hub and run reload
